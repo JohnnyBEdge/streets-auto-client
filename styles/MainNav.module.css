@@ -1,0 +1,20 @@
+.container{
+    width: 100%;
+    background-color: #000;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container a{
+    color: #CDC8C8;
+    font-size: 1.5em;
+    font-family: 'Press Start 2P';
+    padding: 5px;
+    margin-right: 5px;
+}
+
+.navLinks{
+    margin-right: 200px;
+}

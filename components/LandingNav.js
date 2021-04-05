@@ -11,8 +11,6 @@ const LandingNav = () => {
         active === 'styles.hidden' ? setActive('styles.activated') : setActive('styles.hidden')
     };
 
-
-
     return (
         <nav className={styles.container}>
             <div className={styles.menuItem} >

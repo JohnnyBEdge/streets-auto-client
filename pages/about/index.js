@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import MainNav from '../../components/MainNav'
 
 export default function About() {
     return (
@@ -8,6 +9,7 @@ export default function About() {
                 <title>Streets Auto | About</title>
             </Head>
             
+            <MainNav/>
                 <h1>About</h1>
         </div>
     )
