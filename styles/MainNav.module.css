@@ -14,7 +14,11 @@
     padding: 5px;
     margin-right: 5px;
 }
-
-.navLinks{
-    margin-right: 200px;
+.linkContainer{
+    margin: 20px;
+    width: 100%;
+    height: 100%;
+    color: red;
+    background-color: yellow;
 }
+

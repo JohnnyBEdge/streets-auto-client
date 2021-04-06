@@ -17,7 +17,7 @@ const MainNav = () => {
                     </a>
                 </Link>
             </div>
-            <div className="navLinks">
+            <div className="linkContainer">
                 <Link href="/about">
                     <a>About</a>
                 </Link>
